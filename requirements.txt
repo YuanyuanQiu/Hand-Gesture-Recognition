@@ -1,0 +1,8 @@
+prettytable==0.7.2
+~umpy==1.18.1
+~atplotlib==3.2.1
+opencv_python==4.2.0.34
+tensorflow==2.0.0
+matplotlib==3.3.3
+numpy==1.19.4
+scikit_learn==0.23.2
